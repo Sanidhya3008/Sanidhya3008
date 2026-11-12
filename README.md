@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="whoami: a builder of products and services that matter. Now: forging software products and AI apps at sanidhya-forge, running my own CI fleet, learning something new every week. Motto: Make it work. Make it right. Make it matter.">
+  <img src="./assets/terminal.svg" width="100%" alt="whoami: a builder of products and services that matter. Principles: start small, ship early, keep what people actually use; simple systems beat clever ones; learn something new every week. Motto: Make it work. Make it right. Make it matter.">
 </p>
 
 <p align="center">
